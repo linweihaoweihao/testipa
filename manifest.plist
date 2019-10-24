@@ -16,6 +16,8 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
 					  <key>url</key>
                         <string>https://file.huobiasia.vip/global/en-us/static/huobi57@1x.png</string>
 
@@ -23,6 +25,8 @@
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
                         <string>https://file.huobiasia.vip/global/en-us/static/huobi57@2x.png</string>
 				</dict>
