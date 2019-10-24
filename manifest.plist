@@ -28,14 +28,16 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.SolarSoft.SolarWallet</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>huobing</string>
+				 <key>bundle-identifier</key>
+                    <string>com.huobi.company</string>
+                    <key>bundle-version</key>
+                    <string>5.3.7</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>subtitle</key>
+                    <string>全球领先的数字资产交易平台</string>
+                    <key>title</key>
+                    <string>火币Pro</string>
 			</dict>
 		</dict>
 	</array>
